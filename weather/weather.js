@@ -17,7 +17,6 @@ style: function(feature){
   if (feature.properties.severity === 'Minor') alertColor = 'yellow';
   return { color: alertColor };
 },
-,
 onEachFeature: function(feature, layer) {
   layer.bindPopup(feature.properties.headline);
 }
