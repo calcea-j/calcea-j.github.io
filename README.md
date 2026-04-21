@@ -7,3 +7,4 @@ A map displaying current and anticipated weather conditions in the United States
 
 ## Photo Map Tour
 A map of some restaurants around Baton Rouge, LA that resonate with college students. Allows users to click, and show a photo of the locations with a description.
+<https://calcea-j.github.io/photomap>
